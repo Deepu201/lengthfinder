@@ -1,7 +1,7 @@
 {
-  "name": "string-operation",
+  "name": "string-operation-dee",
   "version": "1.0.0",
-  "description": "string operation",
+  "description": "string-operation",
   "main": "index.js",
   "type": "module",
   "scripts": {
