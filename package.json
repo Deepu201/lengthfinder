@@ -1,0 +1,23 @@
+{
+  "name": "string-operation",
+  "version": "1.0.0",
+  "description": "string operation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run si"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepu201/lengthfinder.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Deepu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepu201/lengthfinder/issues"
+  },
+  "homepage": "https://github.com/Deepu201/lengthfinder#readme"
+}
